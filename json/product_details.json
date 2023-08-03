@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Released Products",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=EcoResProductDetailsExtendedGrid",
+        "group": "products"
+    },
+    {
+        "name":"Product Variants",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=EcoResProductVariantsPerCompany",
+        "group": "products"
+    },
+    {
+        "name":"Item barcodes",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=InventItemBarcode",
+        "group": "products"
+    },
+    {
+        "name":"Vendors",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=VendTableListPage",
+        "group": "products"
+    },
+    {
+        "name":"Logos",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=HWILogo",
+        "group": "products"
+    },
+    {
+        "name":"Teams",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=HWITeam",
+        "group": "products"
+    },
+    {
+        "name":"Players",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=HWIPlayer",
+        "group": "products"
+    },
+    {
+        "name":"Brands",
+        "url":"https://hwprod.operations.dynamics.com/?cmp=100&mi=HWIBrand",
+        "group": "products"
+    }
+]

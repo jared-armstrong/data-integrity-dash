@@ -1,0 +1,22 @@
+[
+    {
+        "name":"DSW Sales Orders",
+        "url":"https://hwprod.operations.dynamics.com/?cmp=200&mi=SalesTableDetails",
+        "group": "sales"
+    },
+    {
+        "name":"DSW Invoice Journal",
+        "url":"https://hwprod.operations.dynamics.com/?cmp=200&mi=CustInvoiceJournal",
+        "group": "sales"
+    },
+    {
+        "name":"Mexico Sales Orders",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=404&mi=SalesTableDetails",
+        "group": "sales"
+    },
+    {
+        "name":"Mexico Invoice Journal",
+        "url":"https://hwprod.operations.dynamics.com/?cmp=404&mi=CustInvoiceJournal",
+        "group": "sales"
+    }
+]

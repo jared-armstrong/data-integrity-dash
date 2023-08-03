@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Trade Agreement Batch Job",
+        "url": "https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=BatchJob",
+        "group": "pricing" 
+    },
+    {
+        "name": "Pricing Table",
+        "url": "https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=HWIPricingTable",
+        "group": "pricing" 
+    },
+    {
+        "name": "Pricing History Table",
+        "url": "https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=HWIPricingHistory",
+        "group": "pricing" 
+    }
+]

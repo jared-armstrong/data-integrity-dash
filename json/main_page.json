@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Data Management",
+        "path": "pages/dataManagement.html",
+         "group": "home" 
+    },
+    {
+        "name":"Sales",
+        "path": "pages/sales.html",
+         "group": "home"
+    },
+    {
+        "name":"Transfers",
+        "path": "https://hwprod.operations.dynamics.com/?cmp=200&mi=InventTransferOrder",
+         "group": "home"
+    },
+    {
+        "name":"Product Details",
+        "path": "pages/product_details.html",
+         "group": "home"
+    },
+    {
+        "name":"Azure Data Factory",
+        "path": "pages/adf.html",
+         "group": "home"
+    },
+    {
+        "name":"Story Boards",
+        "path": "pages/storyBoards.html",
+         "group": "home"
+    },
+    {
+        "name":"One Drive",
+        "path": "https://hatworld-my.sharepoint.com/",
+         "group": "home"
+    },
+    {
+        "name": "Pricing",
+        "path": "pages/pricing.html",
+        "group": "home"
+    },
+    {
+        "name": "Inventory",
+        "path": "pages/inventory.html",
+        "group": "home"
+    }
+]

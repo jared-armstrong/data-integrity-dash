@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Co. 100",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=100&mi=DM_DataManagementWorkspaceMenuItem",
+        "group": "dmf"
+    },
+    {
+        "name":"Co. 200",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=200&mi=DM_DataManagementWorkspaceMenuItem",
+        "group": "dmf"
+    },
+    {
+        "name":"Co. 400",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=400&mi=dm_datamanagementworkspacemenuitem",
+        "group": "dmf"
+    },
+    {
+        "name":"Co. 401",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=401&mi=dm_datamanagementworkspacemenuitem",
+        "group": "dmf"
+    },
+    {
+        "name":"Co. 402",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=402&mi=dm_datamanagementworkspacemenuitem",
+        "group": "dmf"
+    },
+    {
+        "name":"Co. 403",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=403&mi=dm_datamanagementworkspacemenuitem",
+        "group": "dmf"
+    },
+    {
+        "name":"Co. 404",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=404&mi=dm_datamanagementworkspacemenuitem",
+        "group": "dmf"
+    },
+    {
+        "name":"Co. 406",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=406&mi=dm_datamanagementworkspacemenuitem",
+        "group": "dmf"
+    },
+    {
+        "name":"Co. 900",
+        "url":"https://hwprod.operations.dynamics.com/?t=2020-07-22T13%3A09%3A44.6086374Z&cmp=900&mi=dm_datamanagementworkspacemenuitem",
+        "group": "dmf"
+    }
+]

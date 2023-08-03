@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Azure Data Factory Home",
+        "url": "https://portal.azure.com/#home",
+        "group": "adf" 
+    },
+    {
+        "name": "Pipeline Monitoring",
+        "url": "https://adf.azure.com/en/authoring?factory=%2Fsubscriptions%2F66224f38-d283-4e7c-a861-f7f3c48a42c9%2FresourceGroups%2FRG_LidsDynamicsProd%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2FPRODDynamicsIntegrationsADF",
+        "group": "adf"
+    },
+    {
+        "name": "BMS Pipeline Files",
+        "url": "https://portal.azure.com/#view/Microsoft_Azure_Storage/ContainerMenuBlade/~/overview/storageAccountId/%2Fsubscriptions%2F66224f38-d283-4e7c-a861-f7f3c48a42c9%2FresourceGroups%2FRG_LidsDynamicsProd%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fprodd365integrationssa/path/prodd365importpackagesstorage/etag/%220x8DA293719D1B221%22/defaultEncryptionScope/%24account-encryption-key/denyEncryptionScopeOverride~/false/defaultId//publicAccessVal/None",
+        "group": "adf"
+    }
+]

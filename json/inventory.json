@@ -1,0 +1,12 @@
+[
+    {
+        "name": "DSW OH Inventory",
+        "url": "https://hwprod.operations.dynamics.com/?cmp=200&mi=InventOnhandItem",
+        "group": "inventory" 
+    },
+    {
+        "name": "DSW Inventory Transactions",
+        "url": "https://hwprod.operations.dynamics.com/?cmp=200&mi=InventTrans",
+        "group": "inventory" 
+    }
+]

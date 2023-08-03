@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Buying and Merch Boards",
+        "url":"https://dev.azure.com/HatWorld/Lids%20Portfolio/_boards/board/t/Buying%20and%20Merchandising/Stories",
+        "group": "devops"
+    },
+    {
+        "name":"DevOps Boards",
+        "url":"https://dev.azure.com/HatWorld/Lids%20Portfolio/_boards/board/t/DevOps/Stories",
+        "group": "devops"
+    },
+    {
+        "name":"Infrastructure & Network Boards",
+        "url":"https://dev.azure.com/HatWorld/Lids%20Portfolio/_boards/board/t/Infrastructure%20and%20Network%20Operations/Stories",
+        "group": "devops"
+    },
+    {
+        "name":"LidsU Boards",
+        "url":"https://dev.azure.com/HatWorld/Lids%20Portfolio/_boards/board/t/Infrastructure%20and%20Network%20Operations/Stories",
+        "group": "devops"
+    }
+]
