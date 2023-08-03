@@ -23,8 +23,7 @@ function renderData(pages) {
       // data pulled for each state
       title.innerText = page.name;
       url.href = page.url;
-
-      url.target = '_blank'
+      url.target = 'blank';
 
       // used appendChild to make sure all elements are inside the cardColumn div and in cardsContiner id
       url.appendChild(cardColumn)

@@ -24,8 +24,6 @@ function renderData(pages) {
       title.innerText = page.name;
       url.href = page.url;
 
-      url.target = '_blank'
-
       // used appendChild to make sure all elements are inside the cardColumn div and in cardsContiner id
       url.appendChild(cardColumn)
       cardColumn.appendChild(cardInfo);
