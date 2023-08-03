@@ -10,8 +10,8 @@
     margin: 50px;
     text-align: center;
     border-width: 2px;
-    border-color: #65379B;
-    background: linear-gradient(109.6deg, rgb(223, 234, 247) 11.2%, rgb(244, 248, 252) 91.1%);
+    border-color: black;
+    background: radial-gradient(circle at 10% 20%, rgb(137, 247, 254) 0%, rgb(102, 166, 255) 90%);
 }
 
 .card:hover {
@@ -22,16 +22,16 @@
 
 a {
     text-decoration: none;
-    color: #65379B;
+    color: black;
 }
 
 a:hover{
-    color: #65379B;
+    color: black;
 }
 
 .navbar {
     width: 100%;
-    background: linear-gradient(-225deg, #65379B 0%, #886AEA 53%, #6457C6 100%);
+    background: radial-gradient(circle at 10% 20%, rgb(137, 247, 254) 0%, rgb(102, 166, 255) 90%);
     height: 120px;
 }
 
@@ -50,7 +50,7 @@ a:hover{
     text-align: center;
     padding: 20px;
     font-weight: bold;
-    color: white;
+    color: black;
     margin: auto;
     padding: 20px;
 }
