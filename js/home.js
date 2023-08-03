@@ -24,6 +24,13 @@ function renderData(pages) {
       title.innerText = page.name;
       url.href = page.url;
 
+      if (url.href == 'https://hatworld-my.sharepoint.com/') {
+        url.target = '_blank';
+      }
+      if (url.href == 'https://hwprod.operations.dynamics.com/?cmp=200&mi=InventTransferOrder') {
+        url.target = '_blank';
+      }
+
       // used appendChild to make sure all elements are inside the cardColumn div and in cardsContiner id
       url.appendChild(cardColumn)
       cardColumn.appendChild(cardInfo);
