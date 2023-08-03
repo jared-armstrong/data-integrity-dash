@@ -46,10 +46,6 @@ a:hover{
 
 
 footer {
-    /* position: absolute; */
-    width: 100%;
-    height: 60px;
-    /* line-height: 60px; */
     background: linear-gradient(-225deg, #65379B 0%, #886AEA 53%, #6457C6 100%);
     color: white;
     text-align: center;
